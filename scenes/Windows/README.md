@@ -35,6 +35,10 @@ Local program associations and audio devices must be selected again after import
 | 9M94076G-412G-1489-CC41-8O9K6FC87K3Y.sdProfile | 5,1 | Drive Thálion | {"path": "F:/Drive Thálion"} |
 | 9M94076G-412G-1489-CC41-8O9K6FC87K3Y.sdProfile | 5,2 | Família Urso | {"path": "F:/Família Urso"} |
 
+## Screenshot chronology / Cronologia dos prints
+
+These screenshots precede the latest corrected export. For current bindings use the table above: page 1 lower-left Left / Right / F; page 2 lower-left Magnifier / PrintScreen; page 2 main Ctrl+F1 / Ctrl+F2. / Estes prints são anteriores ao export corrigido. Para as atribuições atuais, consulte a tabela acima.
+
 ## Screenshots / Capturas de tela
 
 ![Controlar Windows — screen-043633.png](screen-043633.png)
