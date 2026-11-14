@@ -1,50 +1,39 @@
-# Guia visual AJAZZ APK03
+# AJAZZ AKP03E — Cenas e Guia Visual
 
-[English](README.md) · **Português (Brasil)**
+[English](README.md) · [Português (Brasil)](README.pt-BR.md)
 
-Guia pessoal de consulta rápida dos controles da AJAZZ APK03 e dos ícones personalizados das cenas Canva, Chrome e Windows.
+[Download v1.1 — profiles, import assistant, hotkeys and screenshots / Baixar pacote completo](AJAZZ_AKP03E_v1.1.zip?raw=true)
 
-## Downloads
+[Installation / Instalação](INSTALL.md) · [Extra icons / Ícones extras](AJAZZ_Extra_Icons.zip?raw=true)
 
-- [PDF em português brasileiro](Guia_Visual_Ajazz_APK03_PT-BR.pdf)
-- [PDF em inglês](Ajazz_APK03_Visual_Guide_EN.pdf)
-- [Pacote completo: PDFs, ícones e prévias](Ajazz_APK03_v1.0_EN_PT-BR.zip)
-- [Consultar o guia público](https://ajazz-apk03-visual-guide.espa-o-de-tr-4501.chatgpt.site/#pt-br)
+Dispositivo mostrado no AJAZZ: **AKP03E**. Software: **3.10.200.0420**. O endereço original APK03 do repositório foi mantido.
 
-![Mapa dos controles](https://ajazz-apk03-visual-guide.espa-o-de-tr-4501.chatgpt.site/previews/pt-1.jpg)
+## Scenes / Cenas
 
-## Controles para consulta rápida
+| Scene / Cena | Profile, controls and screenshots / Perfil, controles e prints |
+|---|---|
+| Canva | [Open / Abrir](scenes/Canva/README.md) |
+| Chrome | [Open / Abrir](scenes/Chrome/README.md) |
+| Consola de música | [Open / Abrir](scenes/Music-Console/README.md) |
+| Controlar Windows | [Open / Abrir](scenes/Windows/README.md) |
+| DaVinci Resolve | [Open / Abrir](scenes/DaVinci-Resolve/README.md) |
+| Deezer | [Open / Abrir](scenes/Deezer/README.md) |
+| Photoshop | [Open / Abrir](scenes/Photoshop/README.md) |
+| VLC | [Open / Abrir](scenes/VLC/README.md) |
+| WMP | [Open / Abrir](scenes/WMP/README.md) |
 
-| Controle | Função de referência |
-| --- | --- |
-| Giro do knob principal | Ampliar / reduzir o zoom |
-| Giro do knob inferior direito | Rolagem lateral |
-| Três botões inferiores | Navegação padrão: página anterior / Home / próxima página |
-| Aperto dos knobs | As propostas anteriores para o Resolve aparecem separadamente na página 5; não são atribuições confirmadas para Canva, Chrome ou Windows |
+## Corrections to v1.0 / Correções da v1.0
 
-## Artes de cada cena
+- Canva: main knob zoom; bottom buttons Undo / Delete / Redo; Copy is **Ctrl+Shift+C**. / Principal: zoom; botões inferiores Desfazer / Excluir / Refazer.
+- Resolve: main knob Left / Right / Space; zoom is lower-left (Ctrl+F5 / Ctrl+F4 / Shift+Z); lower-right Ctrl+F7 / Ctrl+F8 / Ctrl+F.
+- Chrome: page 1 main knob volume; page 2 Left / Right / Space. Page-specific mappings are in its folder. / Funções por página na pasta Chrome.
+- Windows: Desktop Win+D; Close Alt+F4. / Fechar envia Alt+F4.
+- VLC: lower-left Windows Magnifier Win+minus / Win+plus / Win+Esc; lower-right Shift+Left / Shift+Right / F.
 
-| Cena | Ícones incluídos |
-| --- | --- |
-| Canva | Texto, busca mágica, excluir, camada para frente e para trás, desfazer/refazer, desfazer e refazer separados, copiar e colar |
-| Chrome | ChatGPT, Gemini, Core Play IPTV, Mixkit e YouTube |
-| Windows | Home Windows; Fechar tarefa como ilustração vetorial da função |
+As tabelas por cena substituem o mapa genérico e as propostas de apertos nos PDFs originais. Configuração salva e conferida em print não significa teste físico. Photoshop e Consola de música têm exports, mas não receberam prints.
 
-![Catálogo de ícones do Canva](https://ajazz-apk03-visual-guide.espa-o-de-tr-4501.chatgpt.site/previews/pt-2.jpg)
+## Original v1.0 archive / Arquivo histórico v1.0
 
-O ZIP completo contém as artes individuais em `icons/`, com o catálogo bilíngue `icons/catalog.csv`. As artes personalizadas anteriores foram preservadas; os mesmos ícones servem de referência visual nos dois idiomas. O SVG Fechar tarefa é uma ilustração separada, no padrão do guia. Os arquivos são artes de referência e não comprovam as dimensões nativas de cada revisão de firmware.
+[English PDF — historical](Ajazz_APK03_Visual_Guide_EN.pdf) · [PDF PT-BR — histórico](Guia_Visual_Ajazz_APK03_PT-BR.pdf) · [Original artwork ZIP](Ajazz_APK03_v1.0_EN_PT-BR.zip)
 
-## Conteúdo do pacote
-
-- Dois PDFs de cinco páginas, com navegação clicável.
-- Dezesseis artes PNG e uma ilustração SVG.
-- Prévias em inglês e português brasileiro.
-- ZIP completo para baixar a coleção.
-
-Este é um **guia visual pessoal e não oficial**, sem perfil instalável da AJAZZ. Os códigos de catálogo são diferentes das posições físicas das teclas LCD. O guia e as artes personalizadas foram preparados com apoio de IA. Os nomes e símbolos identificam os serviços representados, sem vínculo ou endosso declarado.
-
-## Correções
-
-Abra uma issue indicando a página, o controle ou o ícone envolvido e a correção sugerida. Ao apontar uma diferença de atalho, informe o aplicativo e a versão relevante do dispositivo/software.
-
-Preparado para Thálion Mibielli · 6 de novembro de 2026 · v1.0
+Unofficial personal guide. / Guia pessoal não oficial.
