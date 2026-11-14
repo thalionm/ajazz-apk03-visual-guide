@@ -1,4 +1,6 @@
-﻿#InstallMouseHook
+﻿#Requires AutoHotkey v1.1.33+
+#SingleInstance Ignore
+#InstallMouseHook
 #NoEnv
 #InstallKeybdHook
 #MenuMaskKey vkFF
