@@ -15,7 +15,7 @@ Local program associations and audio devices must be selected again after import
 | root | 1,0 | Gemini | {"browser": "", "openInBrowser": true, "path": "https://gemini.google.com/app?hl=pt-BR"} |
 | root | 1,1 | YouTube | {"browser": "", "openInBrowser": true, "path": "https://www.youtube.com/"} |
 | root | 2,0 | Vidu | {"browser": "", "openInBrowser": true, "path": "https://www.vidu.com/pt/create/video-edit"} |
-| root | 2,1 | Core Play | {"browser": "", "openInBrowser": true, "path": "http://corenatela.com/"} |
+| root | 2,1 | Core Play | {"browser": "", "openInBrowser": true, "path": "Disabled: unencrypted URL / Desativado: URL sem HTTPS"} |
 | root | 3,0 |  | {"actionIdx": 0} |
 | root | 3,1 | Rolar Y | Ctrl+F1  /  Ctrl+F2  /  Ctrl+Tab |
 | root | 4,1 |  | {} |
@@ -56,3 +56,5 @@ Local program associations and audio devices must be selected again after import
 ![Chrome — screen-045258.png](screen-045258.png)
 
 ![Chrome — screen-045309.png](screen-045309.png)
+
+Security revision: Core Play web action disabled pending a verified HTTPS destination; Deezer and Netflix now specify HTTPS. The screenshot shows the original URL, which is no longer active. / Revisão: endereço Core Play desativado; Deezer e Netflix usam HTTPS. O print registra a URL original, já inativa.
