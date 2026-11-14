@@ -6,17 +6,19 @@ Português: Extraia o ZIP completo. Abra Stream Dock AJAZZ (versão de origem 3.
 
 ## Dependencies / Dependências
 
-- AutoHotkey **v1.1** for `hotkeys/Rolagem DaVinci.ahk`. `Start-Hotkeys.cmd` opens the existing Windows association. Do not run a second instance. / Não abra outra cópia; use AHK v1.1.
+- AutoHotkey **v1.1** for `hotkeys/Rolagem DaVinci.ahk`. `Start-Hotkeys.cmd` uses an explicit interpreter path in Program Files (v1.1.33+), not the Windows file association. Do not run a second instance. / Não abra outra cópia; use AHK v1.1.
 - Hotkeys are global; Resolve-specific throttling is described in the script. / Os atalhos são globais.
 - Windows Gizmos plugin for some Windows/Chrome actions; audio-switching plugin for music scenes. / Plugins Windows Gizmos e alternância de áudio necessários nas ações correspondentes.
 - Rebind application launch actions, automatic app associations and audio devices after import. Recheck profile-switch targets, especially Photoshop. / Vincule novamente abertura de programas, associação automática, saídas de áudio e troca de cenas.
 
 ## Public edition / Edição pública
 
-Keyboard assignments, page IDs and embedded images are preserved. Serial numbers, machine paths, app inventories and audio-device selections were cleared, including JSON backups. This makes the public files different from the private originals. / Atalhos, IDs de páginas e imagens foram preservados. Foram removidos números de série, caminhos locais, inventários de apps e seleções de áudio, inclusive nos backups JSON.
+Keyboard assignments, page IDs and embedded images are preserved. The HTTP Core Play destination was disabled; Deezer/Netflix URLs explicitly use HTTPS. Serial numbers, machine paths, app inventories and audio-device selections were cleared, including JSON backups. This makes the public files different from the private originals. / Atalhos, IDs de páginas e imagens foram preservados. Foram removidos números de série, caminhos locais, inventários de apps e seleções de áudio, inclusive nos backups JSON.
 
 This is a native import assistant, not an unattended installer for AJAZZ, apps or plugins. ZIP/JSON integrity and shortcut preservation were checked. Native import and execution on hardware have not been tested. / Assistente de importação nativa; não instala o AJAZZ, apps ou plugins. Integridade e preservação de atalhos verificadas; importação e execução física ainda não testadas.
 
 ## Evidence / Evidências
 
 Each scene folder contains its profile, control table and available screenshots. Exports prove saved assignments; screenshots corroborate visible fields, not physical operation. Requested undo/redo/copy/paste and knob presses have now been distinguished from older unconfirmed proposals. / Cada pasta reúne perfil, tabela e prints disponíveis. Exports comprovam atribuições salvas; prints não comprovam execução física.
+
+A second copy of the AHK script is ignored automatically. The launcher needs no elevation and does not search the current folder or PATH for an interpreter. / Segunda cópia do AHK é ignorada; o iniciador não exige administrador e não procura interpretadores na pasta atual ou no PATH.

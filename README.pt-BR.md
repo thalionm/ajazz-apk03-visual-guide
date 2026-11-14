@@ -30,10 +30,9 @@ Dispositivo mostrado no AJAZZ: **AKP03E**. Software: **3.10.200.0420**. O endere
 - Windows: Desktop Win+D; Close Alt+F4. / Fechar envia Alt+F4.
 - VLC: lower-left Windows Magnifier Win+minus / Win+plus / Win+Esc; lower-right Shift+Left / Shift+Right / F.
 
-As tabelas por cena substituem o mapa genérico e as propostas de apertos nos PDFs originais. Configuração salva e conferida em print não significa teste físico. Photoshop e Consola de música têm exports, mas não receberam prints.
+As tabelas por cena são a referência atual. Configuração salva e conferida em print não significa teste físico. Photoshop e Consola de música têm exports, mas não receberam prints.
 
-## Original v1.0 archive / Arquivo histórico v1.0
 
-[English PDF — historical](Ajazz_APK03_Visual_Guide_EN.pdf) · [PDF PT-BR — histórico](Guia_Visual_Ajazz_APK03_PT-BR.pdf) · [Original artwork ZIP](Ajazz_APK03_v1.0_EN_PT-BR.zip)
+[Security review / Revisão de segurança](SECURITY.md)
 
-Unofficial personal guide. / Guia pessoal não oficial.
+The obsolete PDFs and v1.0 artwork bundle have been removed from the current branch. Use only the current scene tables. / PDFs e pacote v1.0 obsoletos removidos do ramo atual. Consulte as tabelas por cena.

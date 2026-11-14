@@ -1,6 +1,6 @@
 @echo off
-chcp 65001 >nul
-setlocal
+"%SystemRoot%\System32\chcp.com" 65001 >nul
+setlocal DisableDelayedExpansion
 title AJAZZ - Native scene import assistant
 :menu
 cls
@@ -20,7 +20,7 @@ echo 8. VLC.SDProfile
 echo 9. WMP.SDProfile
 echo 0. Exit / Sair
 echo.
-choice /C 1234567890 /N /M "Select / Escolha: "
+"%SystemRoot%\System32\choice.exe" /C 1234567890 /N /M "Select / Escolha: "
 if errorlevel 10 goto done
 if errorlevel 9 goto scene9
 if errorlevel 8 goto scene8
